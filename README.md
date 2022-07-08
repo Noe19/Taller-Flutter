@@ -1,4 +1,7 @@
 # taller_flutter
+Integrantes:
+Denisse Cumbal
+Ivan Fraga
 
 A new Flutter project.
 
